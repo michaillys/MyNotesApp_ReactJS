@@ -1,0 +1,13 @@
+# Node
+node_modules/
+.env
+
+# SQLite duomenų failas
+data/*.sqlite
+
+# Vite / React
+dist/
+.vite/
+
+# VS Code settings
+.vscode/
